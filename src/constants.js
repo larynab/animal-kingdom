@@ -30,8 +30,8 @@ export const TERRITORIES = [
     superpower: 'Let it snow!'
   },
   {
-    id: 'westoros',
-    name: 'Westoros',
+    id: 'westeros',
+    name: 'Westeros',
     superpower: 'Desert Demons'
   }
 ]
@@ -57,5 +57,9 @@ export const OTHER_KINGDOMS = [
   {
       app: 'https://thirsty-jang-0c0a17.netlify.com',
       ruler: 'ma1222042.id.blockstack'
-  }
+  },
+  {
+    app: 'https://animalkingdoms.netlify.com',
+    ruler: 'moxiegirl.id.blockstack'
+}
 ]
